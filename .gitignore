@@ -1,3 +1,7 @@
+# MacOS
 .DS_Store
-/.vscode
-/.ipynb_checkpoints
+
+# Other (might be Windows?)
+.vscode
+.ipynb_checkpoints
+Thumbs.db
