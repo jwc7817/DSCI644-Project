@@ -5,3 +5,6 @@
 .vscode
 .ipynb_checkpoints
 Thumbs.db
+
+# PyCharm suite
+.idea
