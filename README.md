@@ -26,7 +26,7 @@ Definition & Open Investigation
     - Sanity Check: Propose a high-level architecture. (e.g., "We will ingest the AIDev dataset into MongoDB and use PyDriller to extract metrics.")
     - Deliverable: 1-2 page report outlining the problem, dataset strategy, and Research Questions.
 
-***PHASE 2 | 2026-02-27 | IN PROGRESS***  
+***PHASE 2 | 2026-02-27 | COMPLETED***  
 Initial Solution (The Baseline)
 - Goal: Build an end-to-end "Skeleton" pipeline to identify engineering bottlenecks.
 - Activities:
@@ -35,7 +35,7 @@ Initial Solution (The Baseline)
     - Reflection: Identify "Why is this hard?" (e.g., "The data is too large for memory" or "The LLM is inconsistent").
     - Deliverable: 3-5 page report detailing the initial design, preliminary results, and technical challenges.
 
-***PHASE 3 | 2026-03-19 | NOT STARTED***  
+***PHASE 3 | 2026-03-19 | IN PROGRESS***  
 Optimized Solution (Refinement)
 - Goal: Apply SE patterns to improve performance, reliability, and validity.
 - Activities:
