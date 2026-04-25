@@ -8,3 +8,6 @@ Thumbs.db
 
 # PyCharm suite
 .idea
+
+# Due to the massive datasets of Iowa Liquor full set, git add . takes forever, so ignoring here
+data/iowa_big_datasets
